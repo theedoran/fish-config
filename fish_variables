@@ -1,6 +1,12 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr___ls:ls
+SETUVAR _fish_abbr_ls:exa\x20\x2d\x2dicons
+SETUVAR _fish_abbr_sv:sudoedit
+SETUVAR _fish_abbr_svim:sudoedit
+SETUVAR _fish_abbr_v:nvim
+SETUVAR _fish_abbr_vim:nvim
 SETUVAR _fisher_decors_2F_fish_2D_colored_2D_man_files:/home/theedoran/\x2econfig/fish/functions/man\x2efish
 SETUVAR _fisher_jorgebucaran_2F_fisher_files:/home/theedoran/\x2econfig/fish/functions/fisher\x2efish\x1e/home/theedoran/\x2econfig/fish/completions/fisher\x2efish
 SETUVAR _fisher_oh_2D_my_2D_fish_2F_plugin_2D_bang_2D_bang_files:/home/theedoran/\x2econfig/fish/functions/__history_previous_command\x2efish\x1e/home/theedoran/\x2econfig/fish/functions/__history_previous_command_arguments\x2efish\x1e/home/theedoran/\x2econfig/fish/conf\x2ed/plugin\x2dbang\x2dbang\x2efish

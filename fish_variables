@@ -5,9 +5,9 @@ SETUVAR _fish_abbr___ls:ls
 SETUVAR _fish_abbr___rm:rm
 SETUVAR _fish_abbr_ains:paru\x20\x2dS
 SETUVAR _fish_abbr_arem:paru\x20\x2dRns
-SETUVAR _fish_abbr_ins:pacman\x20\x2dS
+SETUVAR _fish_abbr_ins:sudo\x20pacman\x20\x2dS
 SETUVAR _fish_abbr_ls:exa\x20\x2d\x2dicons
-SETUVAR _fish_abbr_rem:pacman\x20\x2dRns
+SETUVAR _fish_abbr_rem:sudo\x20pacman\x20\x2dRns
 SETUVAR _fish_abbr_rm:trash
 SETUVAR _fish_abbr_sv:sudoedit
 SETUVAR _fish_abbr_svim:sudoedit

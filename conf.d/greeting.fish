@@ -1,1 +1,1 @@
-set fish_greeting (echo "")
+set fish_greeting

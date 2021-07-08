@@ -1,5 +1,6 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export STARSHIP_CONFIG:/home/theedoran/\x2econfig/fish/starship\x2etoml
 SETUVAR __fish_initialized:3100
 SETUVAR _fish_abbr_ins:sudo\x20apt\x20install\x20\x2dy
 SETUVAR _fish_abbr_rem:sudo\x20apt\x20autoremove\x20\x2d\x2dpurge\x20\x2dy

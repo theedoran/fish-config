@@ -17,3 +17,6 @@ $character
 disabled = false
 symbol = "❌"
 map_symbol = true
+
+[directory]
+fish_style_pwd_dir_length = 1
